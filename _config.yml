@@ -1,0 +1,14 @@
+layout_spectrum: 0.2939068
+color:
+  saturation: 0.6792115
+  brandStrength: 0.04121864
+  lightness: 0
+  brandColors:
+    - '#FFF3FE'
+    - '#FF01FF'
+    - '#FFBDFF'
+    - '#D880D7'
+    - '#D139D0'
+  rhythmicContrast: 0.4175627
+typography_spectrum: 0.6577061
+name: maybe_y
